@@ -1,2 +1,11 @@
 # Projects
-Projects I completed or am working on.
+- Installed VMware. 
+- Installed Windows Server 2019. 
+- Installed Windows 10 virtual workstation. 
+- Renamed computer and assigned static IP. 
+- Installed Active Directory and created users and organizational units. 
+- Updated default domain password policy in group policy. 
+- Created share folders. 
+- Mapped personal and network drives. 
+- Remotely connected second virtual machine. 
+- Installed RSAT tools for user.
