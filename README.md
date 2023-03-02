@@ -5,7 +5,8 @@
 - Renamed computers and assigned static IPs. ![Computer name and static ip](https://user-images.githubusercontent.com/78772836/222377325-c6051fb0-a66c-4cf6-8777-2a7a36e6c9d7.png)
 
 
-- Installed Active Directory and created users, groups and organizational units.
+- Installed Active Directory and created users, groups and organizational units. ![AD users groups](https://user-images.githubusercontent.com/78772836/222380565-f7f5e609-c8b8-4a7c-834b-7aa5fdfc3655.png)
+
 
 
 
