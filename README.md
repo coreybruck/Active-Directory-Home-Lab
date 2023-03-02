@@ -10,10 +10,11 @@
 
 
 
-- Updated default domain password policy in group policy.
-(2 pics)
-- Created share folders.
-(2 pics)
+- Updated default domain password policy in group policy and created share folders. ![share folders and group policy](https://user-images.githubusercontent.com/78772836/222386146-014777b8-6bb8-4233-bf81-38a5c6f510a4.png)
+
+
+
+
 - Mapped personal and network drives.
 (2 pics)
 - Remotely connected second virtual machine.
