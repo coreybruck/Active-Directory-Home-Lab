@@ -2,11 +2,13 @@
 ## Active Directory Lab
 - Installed VMware software. Installed Windows Server 2019 iso file. Installed Windows 10 iso file. ![Installing Software 1](https://user-images.githubusercontent.com/78772836/222373149-84f4e00f-3b31-450e-bcfe-c0125149cf83.png)
 
+- Renamed computers and assigned static IPs. ![Computer name and static ip](https://user-images.githubusercontent.com/78772836/222377325-c6051fb0-a66c-4cf6-8777-2a7a36e6c9d7.png)
 
-- Renamed computers and assigned static IPs.
-(2 pics)
+
 - Installed Active Directory and created users, groups and organizational units.
-(3 pics)
+
+
+
 - Updated default domain password policy in group policy.
 (2 pics)
 - Created share folders.
