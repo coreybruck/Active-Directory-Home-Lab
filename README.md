@@ -15,10 +15,10 @@
 
 
 
-- Mapped personal and network drives.
-(2 pics)
-- Remotely connected second virtual machine.
-(2 pics)
+- Mapped personal and network drives. Remotely connected second virtual machine. ![rdp map drives](https://user-images.githubusercontent.com/78772836/222390597-3ad556fd-9c3c-440c-b438-f46a2711dd94.png)
+
+
+
 - Installed RSAT tools for user.
 (2 pics)
 ### In this lab i accomplished: Setting up multiple virtual machines. Active Directory install process. Setting up Multiple users and groups.
