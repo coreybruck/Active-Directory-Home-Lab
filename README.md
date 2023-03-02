@@ -28,5 +28,5 @@
   - To install RSAT tools I opened apps and features in settings from the start menu. Clicked optional features and check the box for the files I would install for the user.
 ![APPS and RSAT tools](https://user-images.githubusercontent.com/78772836/222392174-d495f9e2-6fc6-42ae-a931-79738086fee7.png)
 
-### From this lab I accomplished setting up Active Directory for my server and computer connected. I was able to create multiple users, groups, organizational units and edit the group policy. I mapped drives for users. I was able to remotely connect to a desktop and install RSAT tools in optional features.
+## From this lab I accomplished setting up Active Directory for my server and computer connected. I was able to create multiple users, groups, organizational units and edit the group policy. I mapped drives for users. I was able to remotely connect to a desktop and install RSAT tools in optional features.
 
