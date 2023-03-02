@@ -1,6 +1,7 @@
 # Projects
 ## Active Directory Lab
-- Installed VMware software. Installed Windows Server 2019 iso file. Installed Windows 10 iso file. 
+- Installed VMware software. Installed Windows Server 2019 iso file. Installed Windows 10 iso file. ![Installing Software 1](https://user-images.githubusercontent.com/78772836/222373149-84f4e00f-3b31-450e-bcfe-c0125149cf83.png)
+
 
 - Renamed computers and assigned static IPs.
 (2 pics)
